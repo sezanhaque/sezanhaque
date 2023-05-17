@@ -13,7 +13,7 @@
 
 <h3 align="center">A passionate full stack engineer from Bangladesh</h3>
 </div>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="400" src="./resources/img/person.gif">
 
 -   🔭 I’m currently working on [TAP Agent App](https://play.google.com/store/apps/details?id=com.trustaxiatapay.agentapp&hl=en_US&gl=US)
 
